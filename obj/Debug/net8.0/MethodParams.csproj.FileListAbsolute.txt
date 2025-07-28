@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\bin\Debug\net8.0\MethodParams.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\bin\Debug\net8.0\MethodParams.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\bin\Debug\net8.0\MethodParams.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\bin\Debug\net8.0\MethodParams.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\bin\Debug\net8.0\MethodParams.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\MethodParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\MethodParams.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\MethodParams.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\MethodParams.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\MethodParams.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\MethodParams.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\refint\MethodParams.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\MethodParams.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\MethodParams.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\MethodParams\obj\Debug\net8.0\ref\MethodParams.dll
